@@ -1,1 +1,1 @@
-# Collin's IS413 Assignments
+# Collin Lenon's IS413 Assignments
