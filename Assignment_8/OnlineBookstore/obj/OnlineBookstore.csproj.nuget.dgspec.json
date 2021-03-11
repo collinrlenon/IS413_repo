@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colli\\OneDrive\\Desktop\\Assignments\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj": {}
+    "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colli\\OneDrive\\Desktop\\Assignments\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj": {
+    "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colli\\OneDrive\\Desktop\\Assignments\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj",
+        "projectUniqueName": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj",
         "projectName": "OnlineBookstore",
-        "projectPath": "C:\\Users\\colli\\OneDrive\\Desktop\\Assignments\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj",
+        "projectPath": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj",
         "packagesPath": "C:\\Users\\colli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colli\\OneDrive\\Desktop\\Assignments\\Assignment_8\\OnlineBookstore\\obj\\",
+        "outputPath": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignment_8\\OnlineBookstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colli\\AppData\\Roaming\\NuGet\\NuGet.Config",

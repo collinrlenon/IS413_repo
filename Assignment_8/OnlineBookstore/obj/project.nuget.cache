@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kYe4X1FHHbVWM6BeA75gnikBtWad3Qz1sG0X7w3hZCvywy9LoK4/E6B1jQS6E8K9/1VII+ae2yAmkO5fzkqp6w==",
+  "dgSpecHash": "ZP7ncnob0afP3SqA8tNqUJdg17kwJd131jT4gUZ8IXtoa6VYvEBjpHjftbzzUlc5/OYlqet8hMUwL7ReXlzYdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\colli\\OneDrive\\Desktop\\Assignments\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj",
+  "projectFilePath": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignment_8\\OnlineBookstore\\OnlineBookstore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\colli\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\colli\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
